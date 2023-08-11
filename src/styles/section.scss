@@ -15,8 +15,7 @@
     background-color: rgb(222, 235, 246);
 
     @include OnMobile {
-      padding: 100px 0;
-      padding-top: 200px;
+      padding: 200px 0 100px;
     }
 
     &-title {
